@@ -1,0 +1,8 @@
+{
+"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":2,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":1,"width":1,
+"data":[2912,2912,0,0,0,0,0,0,0,0,0,0],
+"events":[
+null,
+{"id":1,"name":"엔딩 크래딧","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":2,"pattern":1,"characterIndex":7},"list":[{"code":221,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[60]},{"code":121,"indent":0,"parameters":[150,150,0]},{"code":231,"indent":0,"parameters":[2,"엔딩 크래딧 (1)",0,0,0,0,100,100,255,0]},{"code":222,"indent":0,"parameters":[]},{"code":232,"indent":0,"parameters":[2,0,0,0,0,-2160,100,100,255,0,780,true]},{"code":121,"indent":0,"parameters":[150,150,1]},{"code":354,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}],"x":0,"y":0}
+]
+}
